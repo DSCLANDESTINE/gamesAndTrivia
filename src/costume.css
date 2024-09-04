@@ -1,0 +1,18 @@
+.blocks {
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+
+.blocks div {
+  width: 100px;
+  height: 100px;
+  margin: 6px;
+  background-color: #eee4da;
+  color: #afa192;
+  border-radius: 3px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+  line-height: 1.6;
+}
